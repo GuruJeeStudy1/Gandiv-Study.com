@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://gurujeestudy1.github.io/GuruJEE-study/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gurujeestudy1.github.io/GuruJEE-study/physics.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gurujeestudy1.github.io/GuruJEE-study/chemistry.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gurujeestudy1.github.io/GuruJEE-study/maths.html</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
